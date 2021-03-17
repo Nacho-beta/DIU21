@@ -1,8 +1,8 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
-Updated: 8/2/2021
+Grupo: DIU3.inac1  Curso: 2020/21 
+Updated: 17/3/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -19,9 +19,6 @@ Miembros
  * :bust_in_silhouette: Jose Miguel Feixas Galdeano @miguefeixas :octocat:
 
 ----- 
-
-
-
 >>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
@@ -31,27 +28,23 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Tras comparar diferentes webs orientadas a la reserva de free tours y otras experiencias turísticas hemos podido observar que, entre las opciones elegidas, Civitatis era la que mejor cumplía los puntos que evaluamos y por tanto ha sido la elegida para la realización de la práctica.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Se han propuesto 2 personas muy distintas entre ellas. Uno tiene objetivos asequibles pero apenas es permisivo y la otra es el caso contrario.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Hemos escogido estas experiencias porque pensamos que incluyen tanto a la gente muy ambiciosa y poco permisiva como a sus contrarios y que estos son los dos posibles extremos. 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
+>>> - Enlace al documento: (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Comentario sobre la valoración: Civitatis es una web que cumple con creces, intuitiva, efectiva, sin ningún error apreciable y orientada a un gran número de usuarios debido a sus posibilidad de personalización.
 
 
 ## Paso 2. UX Design  
