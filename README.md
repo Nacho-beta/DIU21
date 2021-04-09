@@ -30,6 +30,7 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 >>> Se han propuesto 2 personas muy distintas entre ellas. Uno tiene objetivos asequibles pero apenas es permisivo y la otra es el caso contrario.
+>>> William: [William](P1/persona1_William.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
