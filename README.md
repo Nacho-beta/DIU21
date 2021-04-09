@@ -30,16 +30,18 @@ Miembros
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 >>> Se han propuesto 2 personas muy distintas entre ellas. Uno tiene objetivos asequibles pero apenas es permisivo y la otra es el caso contrario.
->>> William: [William](P1/persona1_William.png)
+>>> William: ![William](P1/persona1_William.png)
+>>> Nora: ![Nora](P1/persona2_Nora.png)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 >>> Hemos escogido estas experiencias porque pensamos que incluyen tanto a la gente muy ambiciosa y poco permisiva como a sus contrarios y que estos son los dos posibles extremos. 
+>>> Experiencia de William:![JourneyMap1](P1/Journey Map William.png)
+>>> Experiencia de Nora: ![JourneyMap2](P1/Journey Map Nora.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento: [documento pdf](https://github.com/Nacho-beta/DIU21/blob/master/P1/Usability-review.pdf)
 >>> - Valoración final (numérica): 84
 >>> - Comentario sobre la valoración: Civitatis es una web que cumple con creces, intuitiva, efectiva, sin ningún error apreciable y orientada a un gran número de usuarios debido a sus posibilidad de personalización.
