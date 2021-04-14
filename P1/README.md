@@ -12,8 +12,8 @@
 - 2 User Journey Map  ( 1 por persona)
 - Mapa de William:
 - Mapa de Nora:
-- ![noraMap](./JourneyMaoNorapng)
-- Revisión de Usabilidad : ![review](./Usability-reviwe.pdf)
+- ![noraMap](./JourneyMapNorapng)
+- Revisión de Usabilidad : ![review](./Usability-review.pdf)
 
 
 (valoración y conclusiones de esta etapa)
