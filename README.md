@@ -78,14 +78,25 @@ Miembros
 ----
 
 
->>> Sitemap: ![Sitemap](P2/arquitecturaInformacion/HistoryTourGranda.png)
+>>> Sitemap: ![Sitemap](P2/arquitecturaInformacion/HistoryTourGranada.png)
 >>> Labelling: ![labelling](P2/arquitecturaInformacion/labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Prototipos:
+>>> ### Prototipo Lo-FI Wireframe 
+* Prototipo de la portada de la página 
+* ![Portada](P2/prototipo/prototipoPortada.png)
+* Prototipo del perfil de usuario 
+* ![Perfil](P2/prototipo/prototipoPerfil.png)
+* Prototipo de filtrar los tour con la linea temporal 
+* ![Filtrado](P2/prototipo/prototipoToursFiltrados.png)
+* Prototipo de vista del tour 
+* ![Tour](P2/prototipo/prototipoTourEsp.png)
+* Prototipo de la tienda de Souvenir 
+* ![Tienda](P2/prototipo/prototipoTienda.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
