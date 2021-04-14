@@ -12,7 +12,7 @@
 - 2 User Journey Map  ( 1 por persona)
 - Mapa de William:
 - Mapa de Nora:
-- ![noraMap](JourneymapNora.png)
+- ![noraMap](Journey map Nora.png)
 - Revisión de Usabilidad : ![review](./Usability-review.pdf)
 
 
