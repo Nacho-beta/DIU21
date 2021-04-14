@@ -16,7 +16,7 @@
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap ![Sitemap](./arquitecturaInformacion/HistoryTourGranada.png)
-* Labelling ![Labelling](./arquitecturaInformacion/HistoryTourGranada.png)
+* Labelling ![Labelling](./arquitecturaInformacion/labelling.png)
 
 
 ### Prototipo Lo-FI Wireframe 
