@@ -2,7 +2,6 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU3.inac1  Curso: 2020/21 
-Updated: 17/3/2021
 
 Proyecto: 
 >>> History Tour Granada
@@ -21,87 +20,58 @@ Miembros
 ----- 
 # Proceso de Diseño 
 
-## Paso 1. UX Desk Research & Analisis 
 
+## Paso 1. UX Desk Research & Analisis 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 >>> Tras comparar diferentes webs orientadas a la reserva de free tours y otras experiencias turísticas hemos podido observar que, entre las opciones elegidas, Civitatis era la que mejor cumplía los puntos que evaluamos y por tanto ha sido la elegida para la realización de la práctica.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
->>> Se han propuesto 2 personas muy distintas entre ellas. Uno tiene objetivos asequibles pero apenas es permisivo y la otra es el caso contrario.
->>> William: ![William](P1/persona1_William.png)
->>> Nora: ![Nora](P1/persona2_Nora.png)
-
+>>> Hemos elegido a [William](./P1/persona1_William.png) un científico con mucha personalidad y a [Nora](./P1/persona2_Nora.png) una madre de familia que quiere complacer a sus hijos.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
->>> Hemos escogido estas experiencias porque pensamos que incluyen tanto a la gente muy ambiciosa y poco permisiva como a sus contrarios y que estos son los dos posibles extremos. 
->>> Experiencia de William:![JourneyMap1](P1/Journey Map William.png)
->>> Experiencia de Nora: ![JourneyMap2](P1/Journey Map Nora.png)
+>>> Hemos escogido estas experiencias ya que son dos usuarios muy distintos entre sí y creemos que son hechos que le podrían ocurrir. [Mapa de William](P1/journey_map_william.png) y [Mapa de Nora](P1/journey_map_nora.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >>> - Enlace al documento: [documento pdf](https://github.com/Nacho-beta/DIU21/blob/master/P1/Usability-review.pdf)
 >>> - Valoración final (numérica): 84
->>> - Comentario sobre la valoración: Civitatis es una web que cumple con creces, intuitiva, efectiva, sin ningún error apreciable y orientada a un gran número de usuarios debido a sus posibilidad de personalización.
+>>> - Comentario sobre la valoración: Civitatis es una web que cumple con creces, intuitiva, efectiva, sin ningún error apreciable y orientada a un gran número de usuarios debido a sus posibilidad de personalización. Comparandola con las alternativas a esta es muy superior en practicamente todos los aspectos.
 
 
 ## Paso 2. UX Design  
-
-
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
-
-
 >>> Feedback Capture Grid:
->>> ![CaptureGrid](P2/ideacion_MallaReceptora.png)  
+>>> En esta [malla](P2/ideacion_MallaReceptora.png) hemos hecho un ánalisis de los aspectos de Civitatis para incorporarlos a nuestra nueva propuesta junto a los aspectos que creemos que le falta.
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>>Propuesta: Nuestra aplicación consiste en una guía para turistas de la ciudad de Granada, orientada a conocer las distintas etapas de su pasado. Contará con recorridos temáticos por los sitios más emblemáticos de cada uno de los periodos de la ciudad, enclaves de gran interés turístico y ofertas de restauración orientadas, de igual manera, a experimentar cada época de la ciudad nazarí. 
-
-
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> ScopeCanvas:
->>> ![Scopecanvas](P2/propuestaValor/scope_canvas.jpg)  
+>>> En nuestro diseño con [ScopeCanvas](P2/propuestaValor/scope_canvas.jpg) hemos planteado una aplicación basada en Civitatis la cual va a organizar Tour históricos por Granada. En este diagrama describimos los objetivos, necesidas y acciones de esta, además de las métricas con las cual medimos si nuestra aplicación está funcionando. 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
-
->>> User Task Matrix:
->>> ![UserTaskMatrix](P2/userTaskMatrix.png)
-
+>>> En nuestra [User Task Matrix](P2/userTaskMatrix.png) definimos los 5 grupos de usuarios usuarios los cuales son los objetivo de nuestra aplicacion History Tour, y las 7 tareas a realizar. Marcamos en gris los usuarios que son nuestro objetivo principal y las tareas indispensables de la app. 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
-
->>> Sitemap: ![Sitemap](P2/arquitecturaInformacion/HistoryTourGranada.png)
->>> Labelling: ![labelling](P2/arquitecturaInformacion/labelling.png)
-
+A travñes de nuestro [Sitemap](P2/arquitecturaInformacion/HistoryTourGranada.png) indicamos la jerarquía de nuestra web y a través de cual app podemos acceder. Y con nuestro [labelling](P2/arquitecturaInformacion/labelling.png) indicamos la jerarquía de las funcionalidades de nuestra aplicación.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-
 >>> Prototipos:
 >>> ### Prototipo Lo-FI Wireframe 
-* Prototipo de la portada de la página 
-* ![Portada](P2/prototipo/prototipoPortada.png)
-* Prototipo del perfil de usuario 
-* ![Perfil](P2/prototipo/prototipoPerfil.png)
-* Prototipo de filtrar los tour con la linea temporal 
-* ![Filtrado](P2/prototipo/prototipoToursFiltrados.png)
-* Prototipo de vista del tour 
-* ![Tour](P2/prototipo/prototipoTourEsp.png)
-* Prototipo de la tienda de Souvenir 
-* ![Tienda](P2/prototipo/prototipoTienda.png)
-
+* [Prototipo de la portada de la página](P2/prototipo/prototipoPortada.png)
+* [Prototipo del perfil de usuario](P2/prototipo/prototipoPerfil.png)
+* [Prototipo de filtrar los tour con la linea temporal](P2/prototipo/prototipoToursFiltrados.png)
+* [Prototipo de vista del tour](P2/prototipo/prototipoTourEsp.png)
+* [Prototipo de la tienda de Souvenir](P2/prototipo/prototipoTienda.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
-
-
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
