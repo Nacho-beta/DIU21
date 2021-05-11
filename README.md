@@ -11,7 +11,7 @@ Descripción:
 Nuestra aplicación consiste en una guía para turistas de la ciudad de Granada, orientada a conocer las distintas etapas de su pasado. Contará con recorridos temáticos por los sitios más emblemáticos de cada uno de los periodos de la ciudad, enclaves de gran interés turístico y ofertas de restauración orientadas, de igual manera, a experimentar cada época de la ciudad nazarí. 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logo](img/logo.png)
 
 Miembros
  * :bust_in_silhouette: Hamed Ignacio Benaisa Cruz @Nacho-beta   :octocat:     
@@ -83,22 +83,15 @@ Hemos realizado una [landing page](https://nacho-beta.github.io/landingPage/) de
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+En este [fichero](P3/Moodboard/Guidelines.pdf) marcamos los distintos elementos guidelines (como botones de texto, botones con imágenes, boton de hamburguesa, etc.). Para los patrones hemos usado un table filtrer para filtrer en diseño de linea temporal para filtrar los distintos tours, y el patrón pagination para mostrar todas los tours y productos de la tienda.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
+Para ver como funciona el diseño Hi-Fi de nuestra aplicación se puede hacer usando la herramienta Adobe XD sobre este [fichero](P3/Mockup/DIU-p3.xd) o leer como funciona y los distintos diseños en este [fichero pdf explicativo](P3/Mockup/DIU-p3.pdf)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+En este [video](https://drive.google.com/file/d/11oVBmrdf2gstIixLzFrQh4vp3017LEs3/view?usp=sharing) podemos ver un análisis del proceso para obtener nuestra app de History Tour Granada. Solo es accesible a través de una cuenta de la UGR.
 
 
 ## Paso 4. Evaluación 
