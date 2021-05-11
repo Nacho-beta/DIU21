@@ -71,21 +71,15 @@ A travñes de nuestro [Sitemap](P2/arquitecturaInformacion/HistoryTourGranada.pn
 * [Prototipo de vista del tour](P2/prototipo/prototipoTourEsp.png)
 * [Prototipo de la tienda de Souvenir](P2/prototipo/prototipoTienda.png)
 
+
 ## Paso 3. Mi UX-Case Study (diseño)
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+Hemos recogido los elementos de distintos patrones y guidlines que hemos reconocido útiles para nuestra aplicación. Estos se pueden ver en nuestro [Moodboard](P3/Moodboard/Moodboard.png), donde hemos establecido elementos de diseño y los hemos posicionado respecto a los prototipos.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
-
->>> Plantear Landing Page 
+Hemos realizado una [landing page](https://nacho-beta.github.io/landingPage/) desde la cual se podría descargar nuestra app. Hemos optado por un diseño clásico y elegante para que el usuario no pierda mucho tiempo en esta y realice la descarga de forma casi inmediata.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
