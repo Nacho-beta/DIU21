@@ -99,44 +99,46 @@ En este [video](https://drive.google.com/file/d/11oVBmrdf2gstIixLzFrQh4vp3017LEs
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+Lolis es una aplicación que nos ofrece la posibilidad de organizar un viaje desde cero
+cubriendo todas las necesidades que pueden surgir, como la elección de sitio, los recorridos
+que se van a realizar en el lugar, los costes del viaje, las reservas o la situación de la
+pandemia en el lugar elegido.
+Enlace: [github de diu1.aguacate](https://github.com/Olasergiolas/DIU21)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios | Sexo/Edad| Ocupación               |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ---------| -------- | ----------------------- | ----------- | -----------  | ---------- | ----
+| Maria    | M / 27   | Fotografa               | Alta        | Feliz        | IOS        | A 
+| Carlos   | H / 75   | Jubilado                | Baja        | Asustado     | Android    | A 
+| Victor   | H / 39   | Militar                 | Media       | Ilusionado   | Android    | B 
+| Ana      | M / 21   | Asistenta de compositor | Alta        | Estresada    | Android    | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
-
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+>>> Imagen del test SUS
+![imagenSus](./P4/testSUS.png)
+>>> Valoracion personal
+Como podemos comprobar, los resultados obtenidos por la aplicación Lolis, son
+sustancialmente más altos a los de la aplicación A, Turismo Nazarí. Esto es algo con lo que
+nos encontramos muy de acuerdo tras revisar sendas aplicaciones, sin duda alguna podemos
+apreciar un trabajo mucho más cuidado en la aplicación objeto de este estudio que en la
+usada como comparación en el test A/B.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
+Dejamos aquí el pdf con el Usability Report: [Usability Report](./P4/Usability_report.pdf)
 
 >>> Valoración personal 
-
+Estamos delante de una aplicación sobresaliente, en la que se aprecia un trabajo metódico,
+consistente y que ha cuidado los detalles desde el principio. El diseño en general y los
+colores elegidos son muy agradables y hace que la experiencia de uso sea muy satisfactoria.
+A este hecho ayuda que el aprendizaje y uso de la aplicación es realmente sencillo, lo cual
+no quita que tenga un gran número de funcionalidades, las cuales creemos que están
+elegidas con mucho sentido y que se ajustan a las necesidades de cualquier persona que esté
+planeando un viaje.
 
 ## Paso 5. Evaluación de Accesibilidad  
 
