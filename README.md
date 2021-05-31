@@ -140,27 +140,10 @@ no quita que tenga un gran número de funcionalidades, las cuales creemos que es
 elegidas con mucho sentido y que se ajustan a las necesidades de cualquier persona que esté
 planeando un viaje.
 
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
-
 ## Conclusión final / Valoración de las prácticas
+La sensación que se nos queda tras realizar estas prácticas es muy positiva, es cierto que al comienzo de las mismas la metodología UX se nos hizo algo difícil de abordar debido a que era nuestro primer contacto con la misma. Con el desarrollo de las prácticas esa sensación fue cambiando ya que hemos podido apreciar las bondades de esta metodología y todo lo que aporta al diseño de una aplicación. Además de descubrir metodologías que ni nos imaginábamos que se realizaban.
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+En cuanto a nuestro trabajo y resultados estamos contentos, evidentemente, como cualquier actividad, podrían haberse hecho mejor y estamos seguros que con la práctica en el futuro iremos adquiriendo más destreza pero para ser nuestro primer acercamiento al diseño UX consideramos que ha sido una experiencia muy positiva.
 
 
 
